@@ -1,0 +1,43 @@
+.nav-item{
+    align-items: center;
+}
+img{
+    padding-top: px;
+}
+
+
+.about-section {
+    padding:40px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+
+  .checked {
+    color: orange;
+  }
+
+  i:hover {
+    background-color: blue;
+    /* text-decoration: underline; */
+  }
+  a:hover {
+    background-color: blue;
+    /* text-decoration: underline; */
+  }
+  .fa-brands{
+    font-size:24px;
+    color: white;
+  }
+  .header:hover{
+    text-decoration: underline ;
+  }
+  .Reviews{
+    background-color: rgb(1, 1, 88);
+  }
+  .about{
+    background-color: rgb(3, 3, 4);
+  }
+  .home{
+    color: black;
+  }
